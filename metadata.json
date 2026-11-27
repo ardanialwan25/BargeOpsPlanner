@@ -1,0 +1,6 @@
+{
+  "name": "BargeOps Planner",
+  "description": "Kalkulator Plan Productivity, Increment Sublot, Waktu Optimal, dan Rekomendasi Manpower untuk Loading/Unloading Barge.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
